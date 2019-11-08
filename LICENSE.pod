@@ -4,10 +4,10 @@
 
 =head2 Text
 
-The screenplay “So, Who the Hell is Qoheleth?” is original,
-and as far as I am concerned is Copyright by Shlomi Fish, 2014 and
+The screenplay “Terminator: Liberation” is fan fiction,
+and as far as I am concerned is Copyright by Shlomi Fish, 2019 and
 made available under the
-L<http://creativecommons.org/licenses/by-nc-sa/3.0/>, either version 3.0 or at
+L<http://creativecommons.org/licenses/by-nc-sa/4.0/>, either version 4.0 or at
 your option any later version.
 
 =cut
