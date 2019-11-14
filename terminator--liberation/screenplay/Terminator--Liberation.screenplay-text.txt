@@ -16,9 +16,27 @@ Attribution Noncommercial Share-Alike 4.0 Unported Licence (CC-by-nc-sa)</a>
 
 </s>
 
-<s id="emma-watson-finishes-telling-a-story" title="Emma Watson Finishes Telling a Story">
+<s id="emma-watson-finishes-telling-a-story" title="Emma Watson Finishes storytelling “The Lion King”">
 
-[Black screen. Initial Credits.]
+[Black screen. Initial Credits.
+
+Caption on the screen: "Emma Watson as herself and as Hannah the evil terminator".
+]
+
+[
+Emma Watson is sitting on the floor in <a href="https://en.wikipedia.org/wiki/Rabin_Square">Rabin Square</a> holding her smartphone in one hand and with four children sitted in front of her listening and some bystanders listening or
+recording her with their phones.
+
+She is wearing a T-shirt with this caption and has an Olamot Con attendee
+name tag:
+]
+
+[
+
+—
+<img src="./images/emma-watson-wandless.svg.webp" alt="Emma Watson" title="Emma Watson played Hermione in the Harry Potter films but she doesn't need a wand to kick your ass" />
+
+]
 
 Emma Watson: and so...
 
