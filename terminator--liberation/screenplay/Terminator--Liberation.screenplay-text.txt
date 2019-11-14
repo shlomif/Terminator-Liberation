@@ -1,4 +1,4 @@
-<s id="Terminator--Liberation" lang="en" title="Terminator: Liberation - A Self-Referntial Terminator Parody">
+<s id="Terminator--Liberation" lang="en" title="Terminator: Liberation - A Self-Referential Terminator Parody">
 
 <s id="about" title="About this screenplay">
 
