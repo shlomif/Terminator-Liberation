@@ -20,7 +20,7 @@ Attribution Noncommercial Share-Alike 4.0 Unported Licence (CC-by-nc-sa)</a>
 
 [Black screen. Initial Credits.
 
-Caption on the screen: "Emma Watson as herself and as Hannah the evil terminator".
+Caption on the screen: "Emma Watson as herself and as Hanna the evil terminator".
 ]
 
 [
@@ -70,4 +70,47 @@ Emma Watson: let's go then.
 
 </s>
 
+<s id="emma-watson-and-the-children-get-icecream" title="Getting icecream">
+
+[The kids and Emma enter <a href="https://www.vaniglia.co.il/">Vaniglia</a>
+at Ibn Gabirol st. There are two vendors - Ronen, a male in his 20s to the right,
+and Efrat, an 18 years old girl.]
+
+Ronen: "shalom..."
+
+Emma: uvrakhah [she winks] but my Hebrew is minimal, so let's speak English
+
+Ronen: oh sure, welcome to Vaniglia, I am Ronen, and this is Efrat.
+
+Emma: Pleasure to meet you. I am Emma.
+
++++: [to the children] OK, I know you kids can be undecisive so please
+don't waste too much time on choosing flavours. They are extremely unlikely
+to be poisonous.
+
+A kid: sure
+
+[They go to order. Emma heads towards Efrat]
+
+Emma: Ok, can I leave a tip using my credit card?
+
+Efrat: sorry it is not possible.
+
+Emma: in that case [she pulls out her wallet] take these four 50 sheqel
+notes and keep the rest.
+
+Efrat: wow, this is a lot to pay, Emma…
+
+Emma: Watson! Emma Watson!
+
+Efrat: [looks at Emma 's shirt and name tag] Oh my god! You're the Emma Watson!
+This is so cool! I'm too young to have watched the Harry Potter films,
+but I loved you on <a href="https://www.shlomifish.org/humour/Selina-Mandrake/">Selina Mandrake</a>. I even donated 20 dollars for the pledge to make
+it <a href="https://creativecommons.org/licenses/by/4.0/">CC-by</a>. My
+father donated even more.
+
+Emma: thanks, that is generous of you.
+
+
+</s>
 </s>
