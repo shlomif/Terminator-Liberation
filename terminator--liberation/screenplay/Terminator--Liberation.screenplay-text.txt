@@ -239,4 +239,20 @@ Arnold: Bravo, bravo! You two have the makings of true
 
 </s>
 
+<s id="fighting-the-evil-terminator" title="Fighting the evil terminator">
+
+<s id="where-is-hanna" title="Where is Hanna">
+
+Emma: So, Aharon, where is this evil Hanna terminator anyway?
+
+Aharon: over there - she is busy being an <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/AttentionWhore">attention whore</a>.
+
+[ They see Hanna through the window talking, interviewing, and posing for her photos with fans. ]
+
+Arnold: looks like it will take a while - can we escape?
+
+</s>
+
+</s>
+
 </s>
