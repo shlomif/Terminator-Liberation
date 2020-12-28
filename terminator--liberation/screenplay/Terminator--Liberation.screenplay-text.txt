@@ -7,7 +7,7 @@
 A Terminator parody that takes place in
 <a href="https://en.wikipedia.org/wiki/Tel_Aviv">Tel Aviv, Israel</a> in
 <a href="https://en.wikipedia.org/wiki/Passover">Passover</a>,
-<a href="https://he.wikipedia.org/wiki/%D7%94%27%D7%AA%D7%A9%22%D7%A3">התש"ף / 5780</a> or 2020 AD
+2021 AD
 (around the time that <a href="https://shlomif.fandom.com/wiki/Olamot_Con">Olamot Con</a> takes place).
 
 ]
@@ -259,6 +259,37 @@ by using a time wrapping game level.
 Arnold: I guess - might as well get it over with now.
 
 Emma: yes... <a href="https://scifi.stackexchange.com/questions/9695/whats-the-origin-of-picards-signature-phrase-make-it-so">make it so</a>.
+
+Aharon: On it.
+
+</s>
+
+<s id="initiating-game" title="Initiating Game">
+
+[ Message on the screen:
+
+Hanna the Evil Emma Watson-Like Terminator.
+
+vs.
+
+Arnold Schwarzenegger
+
+Emma Watson
+
+Aharon the Good Arnold-like Terminator
+
+--------------
+
+Challenge Accepted; Round 1: Machine gun.
+
+]
+
+</s>
+
+<s id="hanna-using-machine-gun" title="Hanna using machine gun">
+
+[ Hanna storms towards the trio who are hiding behind a bunker while
+spray shooting. ]
 
 </s>
 
