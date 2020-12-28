@@ -24,7 +24,7 @@ Attribution Noncommercial Share-Alike 4.0 Unported Licence (CC-by-nc-sa)</a>
 
 [Black screen. Initial Credits.
 
-Caption on the screen: "Emma Watson as herself and as Hanna the evil terminator".
+Caption on the screen: "Emma Watson as herself".
 ]
 
 [
@@ -194,7 +194,7 @@ Ronen: You’re welcome and thanks.
 <s id="emulating-arnie-as-hamlet" title="Emulating Arnold Schwarzenegger as Hamlet">
 
 [
-Caption on the screen: "Arnold Schwarzenegger as himself and as Aharon the good terminator".
+Caption on the screen: "Arnold Schwarzenegger as himself".
 ]
 
 [
