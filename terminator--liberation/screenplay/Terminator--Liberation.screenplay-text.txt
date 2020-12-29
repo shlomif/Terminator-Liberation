@@ -308,6 +308,41 @@ Aharon: eject AK-47!
 
 </s>
 
+<s id="hanna-using-a-tank" title="Hanna using a tank">
+
+Message on the screen: Level 2: Tank!
+
+[ Hanna is driving a tank with the newfangled anti-
+<a href="https://en.wikipedia.org/wiki/RPG-7">RPG</a>
+receptors. ]
+
+Emma: oh my god! This is kinda thrilling in a way.
+
+Arnold: Can't we catapult many wooden logs to destroy these
+anti-RPG thingies?
+
+Aharon: good call, Mr. Schwarzenegger! Initiate anti-anti-anti-tank.
+
+[ A flood of logs lands on or around the tank devastating the
+anti-RPG weapons. ]
+
+Hanna: bloody fuck!
+
+Aharon: Initiate anti-tank.
+
+[ <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges
+from the mist, mounts an RPG-7, fires and destroys Hanna's tank. ]
+
+Fluttershy: hasta la vista, baby tank girl!
+
+Rainbow Dash: that was 101% awesome Flutteroo!
+
+Arnold: yeah
+
+Emma: all righto.
+
+</s>
+
 </s>
 
 </s>
