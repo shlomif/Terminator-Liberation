@@ -359,11 +359,31 @@ Emma: how about give up giving up! Or give up giving up giving up!
 Or…
 
 Aharon: I see what you're getting to. [ He writes a script:
-“perl -E 'for my $i (0 .. 1e9) { say "Give up" . " giving up" x $i . "!"; }' | accelerating-text-to-voice -” ]
+“perl -E 'while (1) { say "Give up" . " giving up" x ($i++) . "!"; }' | accelerating-text-to-voice -” ]
 
 [ The message is being sounded. ]
 
-[ Cut to Hanna's display view. ]
+[ Cut to Hanna's monitoring display view.
+
+It displays an increasing long lines at larger speed,
+followed by a stacktrace.
+
+]
+
+Message: Initiating back-up image: Hanna the Good Terminator.
+
+[ Cut to the room. ]
+
+Hanna: I give up. Sorry I tried to kill you three. Hope you can forgive me.
+
+Arnold: <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hakuna-matata">No worries</a>,
+Hanna. It's just a film anyway.
+
+Emma: Yes! Would you like to join us for tea now? I'll pay.
+
+Hanna: Sounds good!
+
+Aharon: Return to realer life Tel Aviv.
 
 </s>
 
