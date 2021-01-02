@@ -383,7 +383,31 @@ Emma: Yes! Would you like to join us for tea now? I'll pay.
 
 Hanna: Sounds good!
 
-Aharon: Return to realer life Tel Aviv.
+[
+
+Message on the screen: Battle won! Hanna has lost.
+
+]
+
+Aharon: Initiate "Exit game".
+
+</s>
+
+<s id="meeting-Hannah-for-tea" title="Meeting Hannah for Tea">
+
+Hannah: [ uses her smartphone ] OK, sorry everyone, but I'm meeting
+a bunch of friends for tea. Jews won't miss an opportunity to eat,
+drink, or appear on T.V.
+
+[ The crowd laughs and disbands. One young man remains, ]
+
+Idan: Say, can I join your meeting?
+
+Hannah: I guess… <a href="https://www.youtube.com/watch?v=Yf7MT1p1VNI">"the more the
+merrier"</a>.
+
+[ Emma, Arnold and Aharon approach Hannah and Idan, and start
+shaking hands and heading over to the café / restaurant. ]
 
 </s>
 
