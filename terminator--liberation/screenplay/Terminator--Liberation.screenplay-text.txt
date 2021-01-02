@@ -241,13 +241,13 @@ Arnold: Bravo, bravo! You two have the makings of true
 
 <s id="fighting-the-evil-terminator" title="Fighting the evil terminator">
 
-<s id="where-is-hanna" title="Where is Hanna">
+<s id="where-is-hannah" title="Where is Hannah">
 
-Emma: So, Aharon, where is this evil Hanna terminator anyway?
+Emma: So, Aharon, where is this evil Hannah terminator anyway?
 
 Aharon: over there - she is busy being an <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/AttentionWhore">attention whore</a>.
 
-[ They see Hanna through the window talking, interviewing, and posing for her photos with fans. ]
+[ They see Hannah through the window talking, interviewing, and posing for her photos with fans. ]
 
 Arnold: looks like it will take a while - can we escape?
 
@@ -268,7 +268,7 @@ Aharon: On it.
 
 [ Message on the screen:
 
-Hanna the Evil Emma Watson-Like Terminator.
+Hannah the Evil Emma Watson-Like Terminator.
 
 vs.
 
@@ -286,20 +286,20 @@ Challenge Accepted; Round 1: Machine gun.
 
 </s>
 
-<s id="hanna-using-machine-gun" title="Hanna using machine gun">
+<s id="hannah-using-machine-gun" title="Hannah using machine gun">
 
-[ Hanna storms towards the trio who are hiding behind a bunker while
+[ Hannah storms towards the trio who are hiding behind a bunker while
 spray shooting. ]
 
 Aharon: This is too easy! Initiate electromagnet.
 
-[ An upper electromagnet attracts Hanna's AK-47 to the ceiling
+[ An upper electromagnet attracts Hannah's AK-47 to the ceiling
 and she tries in vein to release it. ]
 
 Aharon: Initiate supersonic storm.
 
 [ <a href="https://mlp.fandom.com/wiki/Rainbow_Dash">Rainbow Dash</a>
-sets up a cyclone which twirls Hanna out of the machine gun's reach. ]
+sets up a cyclone which twirls Hannah out of the machine gun's reach. ]
 
 Aharon: eject AK-47!
 
@@ -308,11 +308,11 @@ Aharon: eject AK-47!
 
 </s>
 
-<s id="hanna-using-a-tank" title="Hanna using a tank">
+<s id="hannah-using-a-tank" title="Hannah using a tank">
 
 Message on the screen: Level 2: Tank!
 
-[ Hanna is driving a tank with the newfangled anti-
+[ Hannah is driving a tank with the newfangled anti-
 <a href="https://en.wikipedia.org/wiki/RPG-7">RPG</a>
 receptors. ]
 
@@ -326,12 +326,12 @@ Aharon: good call, Mr. Schwarzenegger! Initiate anti-anti-anti-tank.
 [ A flood of logs lands on or around the tank devastating the
 anti-RPG weapons. ]
 
-Hanna: bloody fuck!
+Hannah: bloody fuck!
 
 Aharon: Initiate anti-tank.
 
 [ <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges
-from the mist, mounts an RPG-7, fires and destroys Hanna's tank. ]
+from the mist, mounts an RPG-7, fires and destroys Hannah's tank. ]
 
 Fluttershy: hasta la vista, baby tank girl! [ inspired by
 <a href="https://www.youtube.com/watch?v=dIeuBPDUzB0">Terminator vs Jesus HD The Greatest Action Story Ever Told Mad T.V. 1996</a>
@@ -345,15 +345,15 @@ Emma: all righto.
 
 </s>
 
-<s id="hanna-using-MMA" title="Round 3: Hanna using MMA">
+<s id="hannah-using-MMA" title="Round 3: Hannah using MMA">
 
-[ Caption on screen "Hanna using Mixed Martial Arts (MMA)" ]
+[ Caption on screen "Hannah using Mixed Martial Arts (MMA)" ]
 
-Hanna: must not give up. Terminate.
+Hannah: must not give up. Terminate.
 
 Emma: oh give up already!
 
-Hanna: must not give up. Terminate.
+Hannah: must not give up. Terminate.
 
 Emma: how about give up giving up! Or give up giving up giving up!
 Or…
@@ -363,29 +363,29 @@ Aharon: I see what you're getting to. [ He writes a script:
 
 [ The message is being sounded. ]
 
-[ Cut to Hanna's monitoring display view.
+[ Cut to Hannah's monitoring display view.
 
 It displays an increasing long lines at larger speed,
 followed by a stacktrace.
 
 ]
 
-Message: Initiating back-up image: Hanna the Good Terminator.
+Message: Initiating back-up image: Hannah the Good Terminator.
 
 [ Cut to the room. ]
 
-Hanna: I give up. Sorry I tried to kill you three. Hope you can forgive me.
+Hannah: I give up. Sorry I tried to kill you three. Hope you can forgive me.
 
 Arnold: <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hakuna-matata">No worries</a>,
-Hanna. It's just a film anyway.
+Hannah. It's just a film anyway.
 
 Emma: Yes! Would you like to join us for tea now? I'll pay.
 
-Hanna: Sounds good!
+Hannah: Sounds good!
 
 [
 
-Message on the screen: Battle won! Hanna has lost.
+Message on the screen: Battle won! Hannah has lost.
 
 ]
 
