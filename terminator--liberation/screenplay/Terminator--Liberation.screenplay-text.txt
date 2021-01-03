@@ -345,20 +345,29 @@ Emma: all righto.
 
 </s>
 
-<s id="hannah-using-MMA" title="Round 3: Hannah using MMA">
+<s id="hannah-using-martial-arts" title="Round 3: Hannah using martial arts">
 
-[ Caption on screen "Hannah using Mixed Martial Arts (MMA)" ]
+[ Caption on screen: "Hannah using Martial Arts" ]
 
-Hannah: must not give up. Terminate.
+[
+
+Hannah is shown doing show-off martial arts (Not unlike
+<a href="https://www.youtube.com/watch?v=qFmY7RJqPpQ">this Chun-li cosplay</a>.
+
+]
+
+Hannah: come and get me [while staying at the same place].
 
 Emma: oh give up already!
 
 Hannah: must not give up. Terminate.
 
-Emma: how about give up giving up! Or give up giving up giving up!
+Emma: how about you give up giving up! Or give up giving up giving up!
 Or…
 
-Aharon: I see what you're getting to. [ He writes a script:
+Aharon: I see what you're suggesting, Emma.
+
+[ Aharon writes a script:
 “perl -E 'while (1) { say "Give up" . " giving up" x ($i++) . "!"; }' | accelerating-text-to-voice -” ]
 
 [ The message is being sounded. ]
@@ -408,6 +417,8 @@ merrier"</a>.
 
 [ Emma, Arnold and Aharon approach Hannah and Idan, and start
 shaking hands and heading over to the café / restaurant. ]
+
+</s>
 
 <s id="finishing-the-bedtime-story" title="Bedtime story">
 
