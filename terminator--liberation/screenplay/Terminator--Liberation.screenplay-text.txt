@@ -30,7 +30,7 @@ Caption on the screen: "Emma Watson as herself".
 [
 Emma Watson is sitting on the floor in <a href="https://en.wikipedia.org/wiki/Rabin_Square">Rabin Square</a>
 holding her
-smartphone in one hand and with four children seated in front of her listening
+smartphone in one hand and with four children seated in front of her listening,
 and some bystanders listening or
 recording her with their phones.
 
@@ -62,7 +62,7 @@ time.
 [ Applause. ]
 
 Emma Watson: Well, this isn't exactly how the original
-<a href="https://en.wikipedia.org/wiki/The_Lion_King">"Lion King</a> film went,
+<a href="https://en.wikipedia.org/wiki/The_Lion_King">"Lion King"</a> film went,
 but we're allowed to improvise, aren't we?
 
 +++: Hmmm... it is now [she looks at her watch] 10 A.M. so we've got time until
@@ -104,8 +104,8 @@ Emma: Okay, can I leave a tip using my credit card?
 
 Efrat: sorry! It is not possible.
 
-Emma: in that case [she pulls out her wallet] take these four 50 Sheqel
-notes and keep the rest.
+Emma: in that case [she pulls out her wallet] take these four 100 Sheqel.
+And keep the change as tip.
 
 Efrat: wow, this is a lot to pay, Emma…
 
@@ -145,7 +145,7 @@ and stuff, but… feels right at home.
 
 Efrat: And what's the deal with these kids?
 
-Emma: oh that… Well, their parents approached me in Olamot con, while I
+Emma: Oh that… Well, their parents approached me in Olamot con, while I
 was chatting with some other attendees and they told me they were looking
 for someone to babysit them until about 1 o'clockish. I told them I'd do it
 (because I always <a href="https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html#getting-help-with-cuneiform">try to help others</a>)
@@ -258,7 +258,7 @@ by using a time wrapping game level.
 
 Arnold: I guess - might as well get it over with now.
 
-Emma: yes... <a href="https://scifi.stackexchange.com/questions/9695/whats-the-origin-of-picards-signature-phrase-make-it-so">make it so</a>.
+Emma: yes... Please <a href="https://scifi.stackexchange.com/questions/9695/whats-the-origin-of-picards-signature-phrase-make-it-so">make it so</a>.
 
 Aharon: On it.
 
