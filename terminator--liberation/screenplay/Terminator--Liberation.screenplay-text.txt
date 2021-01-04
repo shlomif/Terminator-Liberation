@@ -277,6 +277,35 @@ Emma: byeeeeeeeeee! [she waves]
 
 </s>
 
+<s id="emma-and-arnold-meet-aharon" title="Emma and Arnold meet Aharon">
+
+Arnold: Ms. Watson, I presume!
+
+Emma: [laughs] May the Schwarzenegger be with you!
+
+Arnold: Heh, some jokes never die.
+
+Emma: At least until Chuck Norris gets to taking them out of their misery.
+
++++: Anyway, let's get to business. Do we wait for our terminators?
+
+Arnold: oh look [he points at Aharon the good terminator.]
+
+Aharon: Mr. Schwarzenegger, Ms. Watson, I am Aharon. Please follow me.
+
+Emma: Yes, sir.
+
+[ They walk]
+
+Aharon: For your information, Hannah, Emma's lookalike evil terminator was sent
+here to kill you both.
+
+Arnold: sounds like it will make a good plot device. "Ask not what yur profits
+should do for you. Ask what you should do for your profits." - a
+Ferengi acquisition rule.
+
+</s>
+
 <s id="fighting-the-evil-terminator" title="Fighting the evil terminator">
 
 <s id="where-is-hannah" title="Where is Hannah">
