@@ -239,6 +239,44 @@ Arnold: Bravo, bravo! You two have the makings of true
 
 </s>
 
+<s id="returning-the-children" title="Returning-The-Children">
+
+[ Emma brings the children to one of the mothers. ]
+
+Boy: hey mum! We had a smashing time with Emma today!
+
++++: We're hungry now though.
+
+Emma: [she opens her pouch] 2,000 sheqels. Feel free to
+keep the change.
+
+Boy: Thanks, Em! I think we'll have Shawarmah.
+
+[ They walk away. ]
+
+Mother: wow! So you're actually the chick who played
+Hermione… I'm a big fan. Here's my card with my website's
+URL. If you need anything.
+
+Emma: here's mine.
+
+Mother: thanks! I heard lots of positive comments about
+"Selina Mandrake". Seems like the kind of crossover
+film only madmen can make.
+
+Emma: I am batshit crazy…
+
+Mother: Same here, heh.
+
+Emma: anyway, I need to meet my friend ( "Arnie!" ) now. Business.
+
+Mother: Ah, he's here too I heard indeed. I'm a big fan of his
+too. Have fun!
+
+Emma: byeeeeeeeeee! [she waves]
+
+</s>
+
 <s id="fighting-the-evil-terminator" title="Fighting the evil terminator">
 
 <s id="where-is-hannah" title="Where is Hannah">
