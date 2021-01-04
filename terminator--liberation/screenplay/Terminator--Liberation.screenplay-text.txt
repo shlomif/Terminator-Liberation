@@ -239,6 +239,21 @@ Arnold: Bravo, bravo! You two have the makings of true
 
 </s>
 
+<s id="evil-terminator-hannah" title="The evil terminator Hanna">
+
+[ Hannah appears out of a portal in an old Tel Aviv apartement
+building with clothes on, carrying an AK-47. She is wearing a T-shirt with
+the caption: "Gonna terminate @EmmaWatson and Arnie. I'm Hanna, BTW."]
+
+[ She marches out:
+
+cut
+
+Hannah arrives at Olamot Con. Some attendee recognise her
+and she is busy tending to the crowd. ]
+
+</s>
+
 <s id="returning-the-children" title="Returning-The-Children">
 
 [ Emma brings the children to one of the mothers. ]
