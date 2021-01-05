@@ -82,23 +82,23 @@ Emma Watson: let's go then.
 
 [The kids and Emma enter <a href="https://www.vaniglia.co.il/">Vaniglia</a>
 at Ibn Gabirol st. There are two vendors - Ronen, a male in his 20s to the right,
-and Efrat, an 18 years old girl.]
+and Efrat, an 18 years old female.]
 
-Ronen: "shalom..."
+Ronen: Shalom...
 
-Emma: uvrakhah [she winks] but my Hebrew is quite rudimentary, so let's speak English
+Emma: uvrakhah [she winks] but my Hebrew is quite rudimentary, so let's speak English.
 
 Ronen: oh sure, welcome to Vaniglia, I am Ronen, and this is Efrat.
 
-Emma: Pleasure to meet you. I am Emma.
+Emma: Pleasure to meet you. I'm Emma.
 
 +++: [to the children] OK, I know you kids can get indecisive, so please
 don't waste too much time on choosing flavours. They are extremely unlikely
 to be poisonous.
 
-A kid: sure
+A kid: sure!
 
-[They go to order. Emma heads towards Efrat]
+[They go to order. Emma heads towards Efrat.]
 
 Emma: Okay, can I leave a tip using my credit card?
 
@@ -110,7 +110,7 @@ And keep the change as tip.
 Efrat: wow, this is a lot to pay, Emma…
 
 Emma: Watson! Emma Watson! I would have thought the shirt is a dead give away,
-but I guess <a href="https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/">I
+but I guess <a href="https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/">one
 cannot expect people to read</a>.
 
 Efrat: [looks at Emma 's shirt and name tag] Oh my god! You're the Emma Watson!
@@ -121,7 +121,7 @@ father donated even more.
 
 Emma: thanks, that was generous of you.
 
-Ronen: Emma, what shall I give you?
+Ronen: Emma, so what shall I give you?
 
 Emma: Mango, chocolate, and lemon - in a cone - with the lemon scoop at the bottom.
 
@@ -129,7 +129,7 @@ Ronen: no problem, but we have dark chocolate, orange…
 
 Emma: dark chocolate!
 
-Ronen: coming right up
+Ronen: coming right up…
 
 [Cut to Efrat.]
 
@@ -162,7 +162,7 @@ Emma: Now what about you?
 
 Efrat: Well, I'm in the twelfth grade now, and planning to be a software
 dev in the army… I mean the military. I'm good at maths and been programming
-since the third grade, and the IDF is desperate for software devs and
+since the third grade, and the <a href="https://en.wikipedia.org/wiki/Israel_Defense_Forces">IDF</a> is desperate for software devs and
 it's something I do enjoy.
 
 Emma: Good luck, well, I'd better eat my icecream, here is my card - you can
@@ -185,7 +185,7 @@ Emma: And I'm Emma Watson.
 
 Emma: Thank you, and good bye.
 
-Ronen: You’re welcome and thanks.
+Ronen: You’re welcome! And thanks!
 
 [Cut.]
 
@@ -243,7 +243,7 @@ Arnold: Bravo, bravo! You two have the makings of true
 
 [ Hannah appears out of a portal in an old Tel Aviv apartement
 building with clothes on, carrying an AK-47. She is wearing a T-shirt with
-the caption: "Gonna terminate @EmmaWatson and Arnie. I'm Hanna, BTW."]
+the caption: "Gonna terminate @EmmaWatson and @Schwarzenegger. I'm Hanna, BTW."]
 
 [ She marches out:
 
@@ -270,7 +270,7 @@ Boy: Thanks, Em! I think we'll have Shawarmah.
 [ They walk away. ]
 
 Mother: wow! So you're actually the chick who played
-Hermione… I'm a big fan. Here's my card with my website's
+<a href="https://harrypotter.fandom.com/wiki/Hermione_Granger">Hermione</a>… I'm a big fan. Here's my card with my website's
 URL. If you need anything.
 
 Emma: here's mine.
@@ -300,7 +300,7 @@ Emma: [laughs] May the Schwarzenegger be with you!
 
 Arnold: Heh, some jokes never die.
 
-Emma: At least until Chuck Norris gets to taking them out of their misery.
+Emma: At least not until <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-chuck-140">Chuck Norris gets to taking them out of their misery</a>.
 
 +++: Anyway, let's get to business. Do we wait for our terminators?
 
@@ -315,9 +315,9 @@ Emma: Yes, sir.
 Aharon: For your information, Hannah, Emma's lookalike evil terminator was sent
 here to kill you both.
 
-Arnold: sounds like it will make a good plot device. "Ask not what yur profits
+Arnold: sounds like it will make a good plot device. "Ask not what your profits
 should do for you. Ask what you should do for your profits." - a
-Ferengi acquisition rule.
+<a href="https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition">Ferengi acquisition</a> rule.
 
 </s>
 
@@ -334,9 +334,9 @@ Aharon: over there - she is busy being an <a href="https://tvtropes.org/pmwiki/p
 Arnold: looks like it will take a while - can we escape?
 
 Aharon: there is no escape from destiny. But we can speed the start of the battle up
-by using a time wrapping game level.
+by using a time wrapped game level.
 
-+++: is that acceptable?
++++: Would that be acceptable?
 
 Arnold: I guess - might as well get it over with now.
 
@@ -370,8 +370,8 @@ Challenge Accepted; Round 1: Machine gun.
 
 <s id="hannah-using-machine-gun" title="Hannah using machine gun">
 
-[ Hannah storms towards the trio who are hiding behind a bunker while
-spray shooting. ]
+[ Hannah storms towards the good guys' trio, who are hiding behind a bunker,
+while spray shooting. ]
 
 Aharon: This is too easy! Initiate electromagnet.
 
@@ -405,25 +405,29 @@ anti-RPG thingies?
 
 Aharon: good call, Mr. Schwarzenegger! Initiate anti-anti-anti-tank.
 
-[ A flood of logs lands on or around the tank devastating the
-anti-RPG weapons. ]
+[ A flood of wooden logs lands on or around the tank devastating the
+anti-RPG weapons and shaking the tank. ]
 
 Hannah: bloody fuck!
 
 Aharon: Initiate anti-tank.
 
 [ <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges
-from the mist, mounts an RPG-7, fires and destroys Hannah's tank. ]
+from the mist, mounts an <a href="https://en.wikipedia.org/wiki/RPG-7">RPG-7</a>, aims, fires, and destroys Hannah's tank. ]
 
-Fluttershy: hasta la vista, baby tank girl! [ inspired by
+Fluttershy: hasta la vista, baby tank girl!
+
+[ Inspired by
 <a href="https://www.youtube.com/watch?v=dIeuBPDUzB0">Terminator vs Jesus HD The Greatest Action Story Ever Told Mad T.V. 1996</a>
+, by <a href="https://en.wikipedia.org/wiki/Tank_Girl">Tank Girl</a>
+and by Emma Watson and Hannah being short.
 ]
 
 Rainbow Dash: that was 101% awesome Flutteroo!
 
-Arnold: yeah
+Arnold: yeah!
 
-Emma: all righto.
+Emma: smashing!
 
 </s>
 
@@ -435,6 +439,7 @@ Emma: all righto.
 
 Hannah is shown doing show-off martial arts (Not unlike
 <a href="https://www.youtube.com/watch?v=qFmY7RJqPpQ">this Chun-li cosplay</a>.
+)
 
 ]
 
@@ -442,7 +447,7 @@ Hannah: come and get me [while staying at the same place].
 
 Emma: oh give up already!
 
-Hannah: must not give up. Terminate.
+Hannah: must not give up. Must Terminate.
 
 Emma: how about you give up giving up! Or give up giving up giving up!
 Or…
@@ -450,7 +455,7 @@ Or…
 Aharon: I see what you're suggesting, Emma.
 
 [ Aharon writes a script:
-“perl -E 'while (1) { say "Give up" . " giving up" x ($i++) . "!"; }' | accelerating-text-to-voice -” ]
+“perl -E 'while (1) { say "Give up" . (" giving up" x ($i++)) . "!"; }' | accelerating-text-to-voice -” ]
 
 [ The message is being sounded. ]
 
@@ -510,7 +515,7 @@ telling a bedtime story for <a href="https://mlp.fandom.com/wiki/Cutie_Mark_Crus
 Discord: And then Emma, Arnold and their friends had a great
 time in Olamot Con, and on the 7th day's evening (8th day
 according to Jewish law) they ate lots of homemade Pizza,
-Pasta, cookies, cakes to celebrate the lifting of
+Pasta, cookies, and cakes to celebrate the lifting of
 the <a href="https://en.wikipedia.org/wiki/Kashrut">Passover kashruth</a>.
 
 +++: And it was the beginning of a wonderful friendship,
@@ -520,7 +525,7 @@ shitload of money</a>.
 
 Apple Bloom: great story, uncle Discord. [yawns]
 
-Discord: good night sweet action hero princesses. [He turns off the light.]
+Discord: good night, sweet action hero princesses. [He turns off the light.]
 
 [ Caption on the screen:
 
