@@ -477,7 +477,7 @@ followed by a stacktrace.
 
 ]
 
-Message: Initiating back-up image: Hannah the Good Terminator.
+Message: Initiating fallback image: Hannah the Good Terminator.
 
 [ Cut to the room. ]
 
