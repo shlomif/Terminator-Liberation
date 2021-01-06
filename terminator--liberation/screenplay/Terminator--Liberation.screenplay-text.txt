@@ -239,11 +239,11 @@ Arnold: Bravo, bravo! You two have the makings of true
 
 </s>
 
-<s id="evil-terminator-hannah" title="The evil terminator Hanna">
+<s id="evil-terminator-hannah" title="The evil terminator Hannah">
 
 [ Hannah appears out of a portal in an old Tel Aviv apartement
 building with clothes on, carrying an AK-47. She is wearing a T-shirt with
-the caption: "Gonna terminate @EmmaWatson and @Schwarzenegger. I'm Hanna, BTW."]
+the caption: "Gonna terminate @EmmaWatson and @Schwarzenegger. I'm Hannah, BTW."]
 
 [ She marches out:
 
@@ -251,6 +251,17 @@ cut
 
 Hannah arrives at Olamot Con. Some attendee recognise her
 and she is busy tending to the crowd. ]
+
+</s>
+
+<s id="good-terminator-hannah" title="The good terminator Aharon">
+
+[ Aharon appears out of a portal in a side corridor of the school
+in which Olamot Con takes place,
+carrying a shotgun. He is wearing a T-shirt with
+the caption: "@EmmaWatson and @Schwarzenegger shall not be terminated. I am Aharon, BTW."]
+
+[ He marches out. ]
 
 </s>
 
