@@ -556,7 +556,7 @@ A wise man once said that “It's the way of the world to praise dead saints
 and persecute living ones”. Well, I’ve decided to not give in, and
 praise a few living great men, who are likely <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs">messiahs</a> or "hacker monarchs".
 
-I hereby praise <a href="https://en.wikipedia.org/wiki/Pope_Benedict_XVI">the departing Pope Benedict XVI</a> (see <a href="https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter">this</a>,
+I hereby praise <a href="https://en.wikipedia.org/wiki/Pope_Benedict_XVI">the departing Pope Benedict XVI</a> (see <a href="https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter">this</a>),
 the Japanese
 <a href="https://en.wikipedia.org/wiki/Akihito">Emperor Emeritus Akihito</a>,
 the head of the Linux kernel project <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a>,
@@ -564,14 +564,13 @@ and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a
 who is a software developer who created the Python programming language.
 They all became hacker kings due to either birth, or by choice,
 and they all <a href="https://buffyfanfiction.fandom.com/wiki/Selinaverse#Slaying_in_the_Selinaverse">slew</a> themselves and retired
-(similar to <a href="https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/">Solon's tactic</a>. )
+(similar to <a href="https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/">Solon's tactic</a>).
 
-I also dedicate it to <a href="https://en.wikipedia.org/wiki/Elizabeth_II">Queen Elizabeth II</a>,
-who is a good woman, a great woman, and likely may admit to
-being a hacker monarch by now. While "the media" may paint her as senile,
-I suspect she is not. However, she may opt to follow suit and become
-Queen Regent Emerita (and still a wonderful and effective hacker monarch/messiah),
-due to old age.
+I also dedicate it to <a href="https://en.wikipedia.org/wiki/Elizabeth_II">Queen Elizabeth II</a>, who
+is a good woman, a great woman, and likely may admit to being a hacker monarch
+by now. While "the media" may paint her as senile, I suspect she is not.
+However, she may opt to follow suit and become Queen Regent Emerita (and still
+remain a wonderful and effective hacker monarch/messiah), due to old age.
 
 ]
 
