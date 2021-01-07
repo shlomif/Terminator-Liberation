@@ -560,10 +560,12 @@ I hereby praise <a href="https://en.wikipedia.org/wiki/Pope_Benedict_XVI">the de
 the Japanese
 <a href="https://en.wikipedia.org/wiki/Akihito">Emperor Emeritus Akihito</a>,
 the head of the Linux kernel project <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a>,
+the former president of the Free Software Foudation,
+<a href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard M. Stallman (RMS)</a>
 and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a>,
 who is a software developer who created the Python programming language.
 They all became hacker kings due to either birth, or by choice,
-and they all <a href="https://buffyfanfiction.fandom.com/wiki/Selinaverse#Slaying_in_the_Selinaverse">slew</a> themselves and retired
+and they all <a href="https://buffyfanfiction.fandom.com/wiki/Selinaverse#Slaying_in_the_Selinaverse">"slew"</a> themselves (metaphorically) and retired
 (similar to <a href="https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/">Solon's tactic</a>).
 
 I also dedicate it to <a href="https://en.wikipedia.org/wiki/Elizabeth_II">Queen Elizabeth II</a>, who
