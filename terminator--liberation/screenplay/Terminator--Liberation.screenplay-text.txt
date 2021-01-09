@@ -265,13 +265,15 @@ the caption: "@EmmaWatson and @Schwarzenegger shall not be terminated. I am Ahar
 
 </s>
 
-<s id="returning-the-children" title="Returning-The-Children">
+<s id="returning-the-children" title="Returning the children">
 
 [ Emma brings the children to one of the mothers. ]
 
 Boy: hey mum! We had a smashing time with Emma today!
 
 +++: We're hungry now though.
+
+Mother: Ah, well, it is 1 O'clock. Do I have money?
 
 Emma: [she opens her pouch] 2,000 sheqels. Feel free to
 keep the change.
@@ -297,7 +299,7 @@ Mother: Same here, heh.
 Emma: anyway, I need to meet my friend ( "Arnie!" ) now. Business.
 
 Mother: Ah, he's here too I heard indeed. I'm a big fan of his
-too. Have fun!
+as well. Have fun!
 
 Emma: byeeeeeeeeee! [she waves]
 
@@ -548,6 +550,8 @@ For this year in the established Tel Aviv.
 
 </s>
 
+</s>
+
 <s id="dedications" title="Dedications">
 
 [
@@ -572,19 +576,19 @@ at least temporarily.
 I also dedicate it to <a href="https://en.wikipedia.org/wiki/Elizabeth_II">Queen Elizabeth II</a>, who
 is a good woman, a great woman, and likely may admit to being a hacker monarch
 by now. While "the media" may paint her as senile, I suspect she is not.
-However, she may opt to follow suit and become Queen Regent Emerita (and still
+However, she may opt to follow suit and become queen regnant Emerita (and still
 remain a wonderful and effective hacker monarch/messiah), due to old age.
 
-Note that I do not intend to demote the alternatives to the projects they headed.
+Note that I do not intend to demote the alternatives to the projects they headed,
+or claim that I fully approve of all their actions and opinions.
 I am a secular Jewish resident and citizen of Israel, and while I like and use
-Python, I use several other programming languages. I also do not always agree
+Python, I use many other programming languages (whether Turing-complete or not).
+I also do not always agree
 with Stallman's opinions and I <a href="https://github.com/shlomif/what-i-learned-from-porting-to-freebsd">recently
 tried porting some of my FOSS projects</a> to FreeBSD. But we can all learn
 from each other.
 
 ]
-
-</s>
 
 </s>
 
