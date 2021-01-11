@@ -1,11 +1,12 @@
-BUFFY_SVG = Buffy-A-Few-Good-Slayers-Logo--take1.svg
-BUFFY_PNG = $(BUFFY_SVG).png
+TERM_LIBER_svg = Terminator-Liberation.svg
+TERM_LIBER_png = $(TERM_LIBER_svg).png
 
-all: $(BUFFY_PNG)
+all: $(TERM_LIBER_png)
 
-$(BUFFY_PNG): $(BUFFY_SVG)
+$(TERM_LIBER_png): $(TERM_LIBER_svg)
 	inkscape --export-png=$@ --export-width=300 $<
 	optipng -o7 $@
 
 upload: all
-	sky up $(BUFFY_PNG)
+	sky up $(TERM_LIBER_png)
+	sky up $(TERM_LIBER_svg)
