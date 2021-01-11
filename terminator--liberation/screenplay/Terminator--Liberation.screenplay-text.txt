@@ -241,7 +241,8 @@ Arnold: Bravo, bravo! You two have the makings of true
 
 <s id="evil-terminator-hannah" title="The evil terminator Hannah">
 
-[ Hannah appears out of a portal in an old Tel Aviv apartement
+[ <a href="https://www.facebook.com/hannah.saunders.1213">Hannah</a> appears
+out of a portal in an old Tel Aviv apartement
 building with clothes on, carrying an AK-47. She is wearing a T-shirt with
 the caption: "Gonna terminate @EmmaWatson and @Schwarzenegger. I'm Hannah, BTW."]
 
