@@ -589,6 +589,10 @@ with Stallman's opinions and I <a href="https://github.com/shlomif/what-i-learne
 tried porting some of my FOSS projects</a> to FreeBSD. But we can all learn
 from each other.
 
+Also note that I do not wish them (or anyone else) to physically die, soon
+or ever. I just want for people to acknowledge their worth, including
+when they are still alive.
+
 ]
 
 </s>
