@@ -242,7 +242,7 @@ Arnold: Bravo, bravo! You two have the makings of true
 <s id="evil-terminator-hannah" title="The evil terminator Hannah">
 
 [ <a href="https://www.facebook.com/hannah.saunders.1213">Hannah</a> appears
-out of a portal in an old Tel Aviv apartement
+out of a portal in an old Tel Aviv apartment
 building with clothes on, carrying an AK-47. She is wearing a T-shirt with
 the caption: "Gonna terminate @EmmaWatson and @Schwarzenegger. I'm Hannah, BTW."]
 
@@ -565,7 +565,7 @@ I hereby praise <a href="https://en.wikipedia.org/wiki/Pope_Benedict_XVI">the de
 the Japanese
 <a href="https://en.wikipedia.org/wiki/Akihito">Emperor Emeritus Akihito</a>,
 the head of the Linux kernel project <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a>,
-the former president of the Free Software Foudation,
+the former president of the Free Software Foundation,
 <a href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard M. Stallman (RMS)</a>
 and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a>,
 who is a software developer who created the Python programming language.
