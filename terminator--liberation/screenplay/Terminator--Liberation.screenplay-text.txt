@@ -426,15 +426,18 @@ Hannah: bloody fuck!
 
 Aharon: Initiate anti-tank.
 
-[ <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges
+[
+
+Cut to some mist near the bunker. <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges
 from the mist, mounts an <a href="https://en.wikipedia.org/wiki/RPG-7">RPG-7</a>, aims, fires, and destroys Hannah's tank. ]
 
 Fluttershy: hasta la vista, baby tank girl!
 
 [ Inspired by
 <a href="https://www.youtube.com/watch?v=dIeuBPDUzB0">Terminator vs Jesus HD The Greatest Action Story Ever Told Mad T.V. 1996</a>
+("Hasta la vista, baby Jesus!")
 , by <a href="https://en.wikipedia.org/wiki/Tank_Girl">Tank Girl</a>
-and by Emma Watson and Hannah being short.
+and by Emma Watson and Hannah being short and petite.
 ]
 
 Rainbow Dash: that was 101% awesome Flutteroo!
@@ -447,7 +450,7 @@ Emma: smashing!
 
 <s id="hannah-using-martial-arts" title="Round 3: Hannah using martial arts">
 
-[ Caption on screen: "Hannah using Martial Arts" ]
+Caption on screen: Level 3: Hannah using Martial Arts!
 
 [
 
@@ -475,14 +478,14 @@ Aharon: I see what you're suggesting, Emma.
 
 [ Cut to Hannah's monitoring display view.
 
-It displays an increasing long lines at larger speed,
+It displays increasingly longer lines at larger speed,
 followed by a stacktrace.
 
 ]
 
 Message: Initiating fallback image: Hannah the Good Terminator.
 
-[ Cut to the room. ]
+[ Cut to the battle room. ]
 
 Hannah: I give up. Sorry I tried to kill you three. Hope you can forgive me.
 
