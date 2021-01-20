@@ -163,8 +163,9 @@ Emma: Now what about you?
 
 Efrat: Well, I'm in the twelfth grade now, and planning to be a software
 dev in the army… I mean the military. I'm good at maths and been programming
-since the third grade, and the <a href="https://en.wikipedia.org/wiki/Israel_Defense_Forces">IDF</a> is desperate for software devs and
-it's something I do enjoy.
+since the third grade, and
+the <a href="https://en.wikipedia.org/wiki/Israel_Defense_Forces">IDF</a>
+is desperate for software devs and it's something I do enjoy.
 
 Emma: Good luck, well, I'd better eat my icecream, here is my card - you can
 IM me when your shift's over and we can meet somewhere near the con.
@@ -177,7 +178,7 @@ Ronen: Yes, please, here - you can use my phone.
 
 Ronen: Hi, I'm Ronen!
 
-Efrat: I'm Efrat!
+Efrat: And I'm Efrat!
 
 Emma: And I'm Emma Watson.
 <a href="https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html#selina-and-the-three">“Mighty Klingon vampire warriors who have watched Sesame Street… this decade royally sucks!!”</a>
@@ -261,7 +262,8 @@ and she is busy tending to the crowd. ]
 [ Aharon appears out of a portal in a side corridor of the school
 in which Olamot Con takes place,
 carrying a shotgun. He is wearing a T-shirt with
-the caption: "@EmmaWatson and @Schwarzenegger shall not be terminated. I am Aharon, BTW."]
+the caption: "@EmmaWatson and @Schwarzenegger shall not be terminated! I am Aharon
+the good Arnold-like terminator, BTW."]
 
 [ He marches out. ]
 
