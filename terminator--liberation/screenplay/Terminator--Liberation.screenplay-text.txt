@@ -41,7 +41,7 @@ name tag:
 [
 
 —
-<img src="./images/emma-watson-wandless.svg.webp" alt="Emma Watson" title="Emma Watson played Hermione in the Harry Potter films but she doesn't need a wand to kick your ass" />
+<img src="./images/emma-watson-wandless.svg.webp" alt="Emma Watson" title="“I played Hermione in the Harry Potter films but I don't need a wand to kick your ass” #SelinaMandrake @EmmaWatson" />
 
 ]
 
@@ -86,7 +86,8 @@ and Efrat, an 18 years old female.]
 
 Ronen: Shalom...
 
-Emma: uvrakhah [she winks] but my Hebrew is quite rudimentary, so let's speak English.
+Emma: <a href="https://en.wiktionary.org/wiki/%D7%91%D7%A8%D7%9B%D7%94">uvrakhah</a>!
+[she winks] but my Hebrew is quite rudimentary, so let's speak English.
 
 Ronen: oh sure, welcome to Vaniglia, I am Ronen, and this is Efrat.
 
