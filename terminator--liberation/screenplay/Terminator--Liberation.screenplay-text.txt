@@ -230,9 +230,17 @@ Boy: … not to be!
 
 Girl: [explosion sounds]
 
-[Applause from the audience, the girl and the boy bow.
+[
 
-Arnold Schwarzenegger approaches.]
+Applause from the audience, the girl and the boy bow.
+
+Arnold Schwarzenegger approaches wearing a shirt with a caption
+
+"Gotta be a badass to play one on screen.
+
+Arnold @Schwarzenegger at your service!"
+
+]
 
 Arnold: Bravo, bravo! You two have the makings of true
 <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/">action heroes</a>.
@@ -259,13 +267,17 @@ and she is busy tending to the crowd. ]
 
 <s id="good-terminator-hannah" title="The good terminator Aharon">
 
-[ Aharon appears out of a portal in a side corridor of the school
+[
+
+Aharon appears out of a portal in a side corridor of the school
 in which Olamot Con takes place,
 carrying a shotgun. He is wearing a T-shirt with
-the caption: "@EmmaWatson and @Schwarzenegger shall not be terminated! I am Aharon
-the good Arnold-like terminator, BTW."]
+the caption: "@EmmaWatson and @Schwarzenegger shall not be terminated!
+I am Aharon the good Arnold-like terminator, BTW."
 
-[ He marches out. ]
+He marches out.
+
+]
 
 </s>
 
@@ -302,7 +314,7 @@ Mother: Same here, heh.
 
 Emma: anyway, I need to meet my friend ( "Arnie!" ) now. Business.
 
-Mother: Ah, he's here too I heard indeed. I'm a big fan of his
+Mother: Ah, I heard he's here as well. I'm a big fan of his
 as well. Have fun!
 
 Emma: byeeeeeeeeee! [she waves]
@@ -331,7 +343,7 @@ Aharon: Mr. Schwarzenegger, Ms. Watson, I am Aharon the terminator. Please follo
 
 Emma: Yes, sir.
 
-[ They walk]
+[ They walk. ]
 
 Aharon: For your information, Hannah, Emma's lookalike evil terminator was sent
 here to kill you both.
@@ -435,7 +447,7 @@ Aharon: Initiate anti-tank.
 
 [
 
-Cut to some mist near the bunker. <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges
+Cut to some mist over the bunker. <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges
 from the mist, mounts an <a href="https://en.wikipedia.org/wiki/RPG-7">RPG-7</a>, aims, fires, and destroys Hannah's tank.
 
 ]
@@ -480,8 +492,12 @@ Or…
 
 Aharon: I see what you're suggesting, Emma.
 
-[ Aharon writes a script:
-“perl -E 'while (1) { say "Give up" . (" giving up" x ($i++)) . "!"; }' | accelerating-text-to-voice -” ]
+[
+Aharon writes a script:
+
+“perl -E 'while (1) { say "Give up" . (" giving up" x ($i++)) . "!"; }' | accelerating-text-to-voice -”
+
+]
 
 [ The message is being sounded. ]
 
@@ -581,9 +597,10 @@ the former president of the Free Software Foundation,
 <a href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard M. Stallman (RMS)</a>
 and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a>,
 who is a software developer who created the Python programming language.
+
 They all became hacker kings due to either birth, or by choice,
 and they all <a href="https://buffyfanfiction.fandom.com/wiki/Selinaverse#Slaying_in_the_Selinaverse">"slew"</a> themselves (metaphorically) and retired
-(similar to <a href="https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/">Solon's tactic</a>)
+(similar to <a href="https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/">Solon's tactic</a>);
 at least temporarily.
 
 I also dedicate it to <a href="https://en.wikipedia.org/wiki/Elizabeth_II">Queen Elizabeth II</a>, who
@@ -602,8 +619,8 @@ tried porting some of my FOSS projects</a> to FreeBSD. But we can all learn
 from each other.
 
 Also note that I do not wish them (or anyone else) to physically die, soon
-or ever. I just want for people to acknowledge their worth, including
-when they are still alive.
+or ever. I just want people to acknowledge their worth, and
+appreciate them, including when they are still alive.
 
 ]
 
