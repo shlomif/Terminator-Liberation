@@ -395,13 +395,15 @@ Aharon the Good Arnold-like Terminator
 
 --------------
 
-Challenge Accepted; Round 1: Machine gun.
+Challenge Accepted!
 
 ]
 
 </s>
 
 <s id="hannah-using-machine-gun" title="Hannah using machine gun">
+
+Message on the screen: Level 1: Machine gun.
 
 [ Hannah storms towards the good guys' trio, who are hiding behind a bunker,
 while spray shooting. ]
@@ -411,7 +413,7 @@ Aharon: This is too easy! Initiate electromagnet.
 [ An upper electromagnet attracts Hannah's AK-47 to the ceiling
 and she tries in vein to release it. ]
 
-Aharon: Initiate supersonic storm.
+Aharon: Initiate sepration storm.
 
 [ <a href="https://mlp.fandom.com/wiki/Rainbow_Dash">Rainbow Dash</a>
 sets up a cyclone which twirls Hannah out of the machine gun's reach. ]
