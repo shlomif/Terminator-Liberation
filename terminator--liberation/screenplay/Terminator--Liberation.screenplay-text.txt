@@ -40,7 +40,6 @@ name tag:
 
 [
 
-—
 <img src="./images/emma-watson-wandless.svg.webp" alt="Emma Watson" title="“I played Hermione in the Harry Potter films but I don't need a wand to kick your ass” #SelinaMandrake @EmmaWatson" />
 
 ]
