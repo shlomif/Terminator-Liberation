@@ -44,7 +44,7 @@ name tag:
 
 ]
 
-Emma Watson: and so Simba and Nala ruled over the Pride Lands with the
+Emma Watson: and so <a href="https://disney.fandom.com/wiki/Simba">Simba</a> and Nala ruled over the Pride Lands with the
 help of Rafiki, Timon and Pumba. And
 <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>
 and <a href="https://mlp.fandom.com/wiki/Pinkie_Pie">Pinkie Pie</a>
@@ -64,16 +64,16 @@ Emma Watson: Well, this isn't exactly how the original
 <a href="https://en.wikipedia.org/wiki/The_Lion_King">"Lion King"</a> film went,
 but we're allowed to improvise, aren't we?
 
-+++: Hmmm... it is now [she looks at her watch] 10 A.M. so we've got time until
-lunch, and I'm kind-of hungry.
++++: Hmmm… it is now [she looks at her watch] 10 a.m., so we've got time until
+lunch, and I'm rather hungry.
 
 The children: Yeah, we're hungry too.
 
 Emma Watson: OK, would you like some icecream?
 
-The children: yeah... all right...
+The children: Yeah… All right…
 
-Emma Watson: let's go then.
+Emma Watson: Let's go then.
 
 </s>
 
@@ -83,7 +83,7 @@ Emma Watson: let's go then.
 at Ibn Gabirol st. There are two vendors - Ronen, a male in his 20s to the right,
 and Efrat, an 18 years old female.]
 
-Ronen: Shalom...
+Ronen: Shalom…
 
 Emma: <a href="https://en.wiktionary.org/wiki/%D7%91%D7%A8%D7%9B%D7%94">uvrakhah</a>!
 [she winks] but my Hebrew is quite rudimentary, so let's speak English.
@@ -146,7 +146,7 @@ and stuff, but… feels right at home.
 Efrat: And what's the deal with these kids?
 
 Emma: Oh that… Well, their parents approached me in Olamot Con, while I
-was chatting with some other attendees and they told me they were looking
+was chatting with some other attendees. They told me they were looking
 for someone to babysit them until about 1 o'clock. I told them I'd do it
 (because I always <a href="https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html#getting-help-with-cuneiform">try to help others</a>)
 and they felt they can trust me.
@@ -207,7 +207,8 @@ Boy: Hey Claudius!
 
 Girl: [lighting a cigar and closing the lighter sounds]
 
-Boy: You killed my father… big mistake! [Does a throwing gesture with his hands]
+Boy: You killed my father… big mistake! [Does a throwing gesture with his
+hands.]
 
 Girl: [window smashing sound]
 
@@ -235,7 +236,7 @@ Applause from the audience, the girl and the boy bow.
 
 Arnold Schwarzenegger approaches wearing a shirt with a caption
 
-"Gotta be a badass to play one on screen.
+"Gotta be a badass to play one in the movies.
 
 Arnold @Schwarzenegger at your service!"
 
@@ -250,17 +251,20 @@ Arnold: Bravo, bravo! You two have the makings of true
 
 <s id="evil-terminator-hannah" title="The evil terminator Hannah">
 
-[ <a href="https://www.facebook.com/hannah.saunders.1213">Hannah</a> appears
+[ <a href="https://www.facebook.com/hannah.saunders.1213">Hannah</a>,
+the Emma-like Terminator, appears
 out of a portal in an old Tel Aviv apartment
 building with clothes on, carrying an AK-47. She is wearing a T-shirt with
-the caption: "Gonna terminate @EmmaWatson and @Schwarzenegger. I'm Hannah, BTW."]
+the caption: "Gonna terminate @EmmaWatson and @Schwarzenegger. I'm Hannah, BTW."
 
-[ She marches out:
+She marches out.
 
-cut
+Cut.
 
 Hannah arrives at Olamot Con. Some attendee recognise her
-and she is busy tending to the crowd. ]
+and she is busy tending to the crowd.
+
+]
 
 </s>
 
@@ -462,7 +466,7 @@ Fluttershy: hasta la vista, baby tank girl!
 and by Emma Watson and Hannah being short and petite.
 ]
 
-Rainbow Dash: that was 101% awesome Flutteroo!
+Rainbow Dash: that was 101% awesome, Flutteroo!
 
 Arnold: yeah!
 
@@ -477,8 +481,7 @@ Caption on screen: Level 3: Hannah using Martial Arts!
 [
 
 Hannah is shown doing show-off martial arts (Not unlike
-<a href="https://www.youtube.com/watch?v=qFmY7RJqPpQ">this Chun-li cosplay</a>.
-)
+<a href="https://www.youtube.com/watch?v=axPXOp6lisw">this Chun-Li cosplay</a>.)
 
 ]
 
