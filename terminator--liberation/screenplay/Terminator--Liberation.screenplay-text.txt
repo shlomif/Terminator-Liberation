@@ -222,6 +222,8 @@ Boy: Stay thy hand fair prince.
 
 Girl: [machine gun firing sounds]
 
++++: Noone is gonna tell this sweet prince “good night”.
+
 Boy: To be or not to be…
 
 Girl: [lighter sounds]
@@ -284,7 +286,7 @@ He marches out.
 
 </s>
 
-<s id="returning-the-children" title="Returning the children">
+<s id="returning-the-children" title="Emma returning the children">
 
 [ Emma brings the children to one of the mothers. ]
 
