@@ -418,7 +418,7 @@ Aharon: This is too easy! Initiate electromagnet.
 [ An upper electromagnet attracts Hannah's AK-47 to the ceiling
 and she tries in vein to release it. ]
 
-Aharon: Initiate sepration storm.
+Aharon: Initiate separation storm.
 
 [ <a href="https://mlp.fandom.com/wiki/Rainbow_Dash">Rainbow Dash</a>
 sets up a cyclone which twirls Hannah out of the machine gun's reach. ]
