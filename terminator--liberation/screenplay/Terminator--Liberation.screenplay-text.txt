@@ -242,6 +242,8 @@ Arnold Schwarzenegger approaches wearing a shirt with a caption
 
 Arnold @Schwarzenegger at your service!"
 
+<img src="./images/gotta-be-a-badass-to-play-one.svg.webp" alt="Arnold Schwarzenegger" title="“Gotta be a badass to play one in the movies. Arnold @Schwarzenegger at your service!”" />
+
 ]
 
 Arnold: Bravo, bravo! You two have the makings of true

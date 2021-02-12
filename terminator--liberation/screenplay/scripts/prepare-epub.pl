@@ -5,11 +5,15 @@ use warnings;
 
 use utf8;
 
-use Shlomif::Screenplays::EPUB;
+use Shlomif::Screenplays::EPUB ();
 
 my $gfx = 'who-is-qoheleth.svg.png';
 
-my @images = ( $gfx, 'emma-watson-wandless.svg.webp', );
+my @images = (
+    $gfx,
+    'emma-watson-wandless.svg.webp',
+    'gotta-be-a-badass-to-play-one.svg.webp',
+);
 
 my $obj = Shlomif::Screenplays::EPUB->new(
     {
@@ -17,7 +21,7 @@ my $obj = Shlomif::Screenplays::EPUB->new(
     }
 );
 
-$obj->run;
+$obj->run();
 
 {
     my $epub_basename = 'So-Who-the-Hell-is-Qoheleth';
@@ -40,7 +44,7 @@ $obj->run;
                         role => "oth",
                     },
                 ],
-                cover => "images/$gfx",
+                cover  => "images/$gfx",
                 rights =>
 "Creative Commons Attribution Noncommercial ShareAlike Unported (CC-by-nc-sa-3.0)",
                 publisher  => 'http://www.shlomifish.org/',
@@ -48,7 +52,7 @@ $obj->run;
                 subjects   => [ 'FICTION/Humorous', 'Judaism', 'Bible', ],
                 identifier => {
                     scheme => 'URL',
-                    value =>
+                    value  =>
 'http://localhost/shlomif/homepage-local/humour/So-Who-The-Hell-Is-Qoheleth/',
                 },
             },
