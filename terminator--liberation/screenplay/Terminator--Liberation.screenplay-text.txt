@@ -524,12 +524,19 @@ Hannah: come and get me!
 
 Emma: [angry] we are not going to come to you, Hannah, Please just give up already.
 
-Hannah: must not give up. Must Terminate.
+Hannah: Must not give up. Must Terminate. Come and get me!
 
-Emma: how about you give up giving up! Or give up giving up giving up!
-Or…
+Emma: how about you give up giving up!
 
-Aharon: I see what you're suggesting, Emma.
+Hannah: Must not give up giving up. Must not give up. Must Terminate. Come and get me!
+
+Emma: hmmm… how about you give up give up giving up!
+
+Hannah: Must not give up give up giving up. Must not give up giving up. Must not give up. Must Terminate. Come and get me!
+
+Emma: Say, Aharon, can you cause her to overflow like this using speech synthesis before I lose my voice?
+
+Aharon: Sure thing, Emma.
 
 [
 Aharon writes a script:
@@ -564,9 +571,11 @@ Hannah: Sounds good!
 
 Message on the screen: Battle won! Hannah has lost.
 
-]
+Game menu with two options "Play Again" and "Exit Game".
 
-Aharon: Initiate "Exit game".
+"Exit Game" is selected.
+
+]
 
 </s>
 
