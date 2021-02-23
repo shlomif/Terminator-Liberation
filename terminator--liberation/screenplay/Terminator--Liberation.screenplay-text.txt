@@ -457,7 +457,7 @@ and faint, ]
 
 Emma: wow! Did we kill her?
 
-Aharon: not really… she'll be angrier when she recovers. [Removes the
+Aharon: not really… and she'll be angrier when she recovers. [Removes his
 sunglasses to reveal another pair.]
 
 [
@@ -466,7 +466,7 @@ Hannah, wakes up, looks around, becomes angry, and boards
 the tank.
 
 The tank stands still, but starts shooting from left to right,
-causing explosions, the wall behind the bunker to emita lot
+causing explosions on the wall behind the bunker which emit a lot
 of misty dust.
 
 ]
@@ -499,6 +499,16 @@ Arnold: yeah!
 
 Emma: smashing!
 
+[
+
+They shake hands / hooves / tails.
+
+]
+
+Caption on the screen: Level 2: Tank - WON!!
+
++++: Hannah has lost.
+
 </s>
 
 <s id="hannah-using-martial-arts" title="Round 3: Hannah using martial arts">
@@ -530,11 +540,13 @@ Emma: how about you give up giving up!
 
 Hannah: Must not give up giving up. Must not give up. Must Terminate. Come and get me!
 
-Emma: hmmm… how about you give up give up giving up!
+Emma: hmmm… how about you give up giving up giving up!
 
-Hannah: Must not give up give up giving up. Must not give up giving up. Must not give up. Must Terminate. Come and get me!
+Hannah: Must not give up giving up giving up. Must not give up giving up. Must
+not give up. Must Terminate. Come and get me!
 
-Emma: Say, Aharon, can you cause her to overflow like this using speech synthesis before I lose my voice?
+Emma: Say, Aharon, can you cause her to overflow like this using speech
+synthesis before I lose my voice?
 
 Aharon: Sure thing, Emma.
 
