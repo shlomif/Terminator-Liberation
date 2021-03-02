@@ -551,13 +551,16 @@ synthesis before I lose my voice?
 Aharon: Sure thing, Emma.
 
 [
+
 Aharon writes a script:
 
-“perl -E 'while (1) { say "Give up" . (" giving up" x ($i++)) . "!"; }' | accelerating-text-to-voice -”
+<code_blk syntax="text" tag_role="asciiart" title="Bash and perl code to overflow Hannah" alt="Bash and perl code">
+&#124; perl -E 'while (1) { say "Give up" . (" giving up" x ($i++)) . "!"; }' | accelerating-text-to-voice -
+</code_blk>
+
+After pressing "Enter", the message is being sounded.
 
 ]
-
-[ The message is being sounded. ]
 
 [ Cut to Hannah's monitoring display view.
 
