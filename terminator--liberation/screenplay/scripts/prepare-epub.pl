@@ -9,11 +9,7 @@ use Shlomif::Screenplays::EPUB ();
 
 my $gfx = 'who-is-qoheleth.svg.png';
 
-my @images = (
-    $gfx,
-    'emma-watson-wandless.svg.webp',
-    'gotta-be-a-badass-to-play-one.svg.webp',
-);
+my @images = ( $gfx, );
 
 my $obj = Shlomif::Screenplays::EPUB->new(
     {
