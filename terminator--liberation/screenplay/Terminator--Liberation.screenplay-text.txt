@@ -265,8 +265,8 @@ She marches out.
 
 Cut.
 
-Hannah arrives at Olamot Con. Some attendee recognise her
-and she is busy tending to the crowd.
+Hannah arrives at Olamot Con. Some attendees recognise her
+and she is busy tending to the crowd (talking, posing, etc.).
 
 ]
 
@@ -479,8 +479,11 @@ Aharon: Good idea, Sir! Initiate anti-tank pony!
 
 [
 
-Cut to some mist over the bunker. <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges
-from the mist, mounts an <a href="https://en.wikipedia.org/wiki/RPG-7">RPG-7</a>, aims, fires, and destroys Hannah's tank.
+Cut to some mist over the bunker.
+<a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges from the
+mist, mounts an <a href="https://en.wikipedia.org/wiki/RPG-7">RPG-7</a>, aims,
+and fires. The RPG missile travels forward in the air, hit and destroys
+Hannah's tank.
 
 ]
 
@@ -492,6 +495,8 @@ Fluttershy: hasta la vista, baby tank girl!
 , by <a href="https://en.wikipedia.org/wiki/Tank_Girl">Tank Girl</a>
 and by Emma Watson and Hannah being short and petite.
 ]
+
+Fluttershy: when you got to shoot - shoot! Then talk. [ <a href="https://www.youtube.com/watch?v=JrYtD7gSWsI">Reference: <i>The Good, the Bad and the Ugly</i></a> ]
 
 Rainbow Dash: that was 101% awesome, Flutteroo!
 
@@ -596,6 +601,8 @@ Game menu with two options "Play Again" and "Exit Game".
 
 <s id="meeting-Hannah-for-tea" title="Meeting Hannah for Tea">
 
+[ Cut to the Olamot Con's realer life view of the school yard. ]
+
 Hannah: [ uses her smartphone ] OK, sorry everyone, but I'm meeting
 a bunch of friends for tea. Jews won't miss an opportunity to eat,
 drink, or appear on T.V.
@@ -620,13 +627,12 @@ telling a bedtime story for <a href="https://mlp.fandom.com/wiki/Cutie_Mark_Crus
 Discord: And then Emma, Arnold and their friends had a great
 time in Olamot Con, and on the 7th day's evening (8th day
 according to Jewish law) they ate lots of homemade Pizza,
-Pasta, cookies, and cakes to celebrate the lifting of
+and cookies to celebrate the lifting of
 the <a href="https://en.wikipedia.org/wiki/Kashrut">Passover kashruth</a>.
 
-+++: And it was the beginning of a wonderful friendship,
-a new age of freedom from censorship and/or copyright
-cannibalism, and the earning of <a href="https://www.youtube.com/watch?v=bJrqpR_7VSo">a
-shitload of money</a>.
++++: And it was the beginning of a wonderful friendship, a new age of freedom
+from censorship and/or copyright cannibalism, and the earning of
+<a href="https://www.youtube.com/watch?v=bJrqpR_7VSo">a shitload of money</a>.
 
 Apple Bloom: great story, uncle Discord. [yawns]
 
