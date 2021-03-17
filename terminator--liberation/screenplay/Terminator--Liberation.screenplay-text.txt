@@ -319,7 +319,7 @@ Emma: I am batshit crazy…
 
 Mother: Same here, heh.
 
-Emma: anyway, I need to meet my friend ( "Arnie!" ) now. Business.
+Emma: anyway, I need to meet my friend ( "Arnie"! ) now. Business.
 
 Mother: Ah, I heard he's here as well. I'm a big fan of his
 as well. Have fun!
@@ -430,6 +430,8 @@ Aharon: eject AK-47!
 [ The AK-47 is thrown out of one of the hall's upper windows.
 ]
 
+Message on the screen: Level 1: Machine gun: Won! Hannah was defeated.
+
 </s>
 
 <s id="hannah-using-a-tank" title="Hannah using a tank">
@@ -453,7 +455,7 @@ anti-RPG weapons and shaking the tank. ]
 Hannah: bloody fuck!
 
 [ Hannah falls from the Tank, only to be hit by the head with more logs,
-and faint, ]
+and faint. ]
 
 Emma: wow! Did we kill her?
 
@@ -482,7 +484,7 @@ Aharon: Good idea, Sir! Initiate anti-tank pony!
 Cut to some mist over the bunker.
 <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges from the
 mist, mounts an <a href="https://en.wikipedia.org/wiki/RPG-7">RPG-7</a>, aims,
-and fires. The RPG missile travels forward in the air, hit and destroys
+and fires. The RPG missile travels forward in the air, hits and destroys
 Hannah's tank.
 
 ]
@@ -492,7 +494,7 @@ Fluttershy: hasta la vista, baby tank girl!
 [ Inspired by
 <a href="https://www.youtube.com/watch?v=dIeuBPDUzB0">Terminator vs Jesus HD The Greatest Action Story Ever Told Mad T.V. 1996</a>
 ("Hasta la vista, baby Jesus!")
-, by <a href="https://en.wikipedia.org/wiki/Tank_Girl">Tank Girl</a>
+, by <a href="https://en.wikipedia.org/wiki/Tank_Girl">Tank Girl</a>,
 and by Emma Watson and Hannah being short and petite.
 ]
 
@@ -550,8 +552,7 @@ Emma: hmmm… how about you give up giving up giving up!
 Hannah: Must not give up giving up giving up. Must not give up giving up. Must
 not give up. Must Terminate. Come and get me!
 
-Emma: Say, Aharon, can you cause her to overflow like this using speech
-synthesis before I lose my voice?
+Emma: Say, Aharon, can you cause her to overflow like this using <a href="https://en.wikipedia.org/wiki/Speech_synthesis">speech synthesis</a> before I lose my voice?
 
 Aharon: Sure thing, Emma.
 
@@ -569,7 +570,7 @@ After pressing "Enter", the message is being sounded.
 
 [ Cut to Hannah's monitoring display view.
 
-It displays increasingly longer lines at larger speed,
+It displays increasingly longer lines at an increasing speed,
 followed by a stacktrace.
 
 ]
