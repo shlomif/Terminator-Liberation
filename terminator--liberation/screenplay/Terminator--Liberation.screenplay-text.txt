@@ -560,7 +560,8 @@ Aharon: Sure thing, Emma.
 Aharon writes a script:
 
 <code_blk syntax="text" tag_role="code_block" title="Bash and perl code to overflow Hannah" alt="Bash and perl code">
-&#124; perl -E 'while (1) { say "Give up" . (" giving up" x ($i++)) . "!"; }' | accelerating-text-to-voice -
+&#124; perl -E 'while (1) { my $text= "Give up" . (" giving up" x ($i++)) . "!"; my $cmd=qq%echo '\''(SayText "$text")'\'' | festival%; system($cmd); print $text . "\n"; }'
+
 </code_blk>
 
 After pressing "Enter", the message is being sounded.
