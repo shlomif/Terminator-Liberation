@@ -9,7 +9,9 @@ addons:
             - cpanminus
             - dbtoepub
             - docbook-defguide
+            - docbook5-xml
             - docbook-xsl
+            - docbook-xsl-ns
             - libperl-dev
             - libxml-libxml-perl
             - libxml-libxslt-perl

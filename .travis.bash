@@ -37,7 +37,7 @@ then
         then
             sudo dpkg-divert --local --divert /usr/bin/ack --rename --add /usr/bin/ack-grep
         fi
-        eval "$(GIMME_GO_VERSION=1.13 gimme)"
+        eval "$(GIMME_GO_VERSION=1.16 gimme)"
     elif test -e /etc/fedora-release
     then
         sudo dnf --color=never install -y hspell-devel perl-devel ruby-devel
@@ -57,7 +57,7 @@ then
 elif test "$cmd" = "build"
 then
     export SCREENPLAY_COMMON_INC_DIR="$PWD/screenplays-common"
-    cd so-who-the-hell-is-qoheleth/screenplay/
+    cd terminator--liberation/screenplay/
     m()
     {
         make DBTOEPUB="/usr/bin/ruby $(which dbtoepub)" \
