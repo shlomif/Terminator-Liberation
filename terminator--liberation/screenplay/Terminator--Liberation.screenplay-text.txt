@@ -43,8 +43,9 @@ name tag:
 
 ]
 
-Emma Watson: and so <a href="https://disney.fandom.com/wiki/Simba">Simba</a> and Nala ruled over the Pride Lands with the
-help of Rafiki, Timon and Pumba. And
+Emma Watson: and so <a href="https://disney.fandom.com/wiki/Simba">Simba</a> and <a href="https://disney.fandom.com/wiki/Nala">Nala</a> ruled over the Pride Lands with the
+help of <a href="https://disney.fandom.com/wiki/Rafiki">Rafiki</a>,
+<a href="https://disney.fandom.com/wiki/Timon">Timon</a> and <a href="https://disney.fandom.com/wiki/Pumbaa">Pumbaa</a>. And
 <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>
 and <a href="https://mlp.fandom.com/wiki/Pinkie_Pie">Pinkie Pie</a>
 made sure life in the Pride Lands will have its share of
@@ -60,7 +61,7 @@ time.
 [ Applause. ]
 
 Emma Watson: Well, this isn't exactly how the original
-<a href="https://en.wikipedia.org/wiki/The_Lion_King">"Lion King"</a> film went,
+<a href="https://en.wikipedia.org/wiki/The_Lion_King"><i>"Lion King"</i></a> film went,
 but we're allowed to improvise, aren't we?
 
 +++: Hmmm… it is now [she looks at her watch] 10 a.m., so we've got time until
@@ -257,7 +258,7 @@ Arnold: Bravo, bravo! You two have the makings of true
 [ <a href="https://www.facebook.com/hannah.saunders.1213">Hannah</a>,
 the Emma-like Terminator, appears
 out of a portal in an old Tel Aviv apartment
-building with clothes on, carrying an AK-47. She is wearing a T-shirt with
+building with clothes on, carrying an <a href="https://en.wikipedia.org/wiki/AK-47">AK-47</a>. She is wearing a T-shirt with
 the caption: "Gonna terminate @EmmaWatson and @Schwarzenegger. I'm Hannah, BTW."
 
 She marches out.
@@ -308,7 +309,7 @@ Mother: wow! So you're actually the chick who played
 <a href="https://harrypotter.fandom.com/wiki/Hermione_Granger">Hermione</a>… I'm a big fan. Here's my card with my website's
 URL. If you need anything.
 
-Emma: here's mine.
+Emma: thank you - here's mine.
 
 Mother: thanks! I heard lots of positive comments about
 "Selina Mandrake". Seems like the kind of crossover
