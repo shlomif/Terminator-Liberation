@@ -114,8 +114,8 @@ but I guess <a href="https://www.joelonsoftware.com/2000/04/26/designing-for-peo
 cannot expect people to read</a>.
 
 Efrat: [looks at Emma 's shirt and name tag] Oh my god! You're the Emma Watson!
-This is so cool! I'm too young to have watched the Harry Potter films,
-but I loved you on <a href="https://www.shlomifish.org/humour/Selina-Mandrake/">Selina Mandrake</a>. I even donated 20 dollars for the pledge to make
+This is so cool! I'm too young to have watched the <i>Harry Potter</i> films,
+but I loved you on <a href="https://www.shlomifish.org/humour/Selina-Mandrake/"><i>Selina Mandrake</i></a>. I even donated 20 dollars for the pledge to make
 it <a href="https://creativecommons.org/licenses/by/4.0/">CC-by</a>. My
 father donated even more.
 
@@ -152,7 +152,7 @@ for someone to babysit them until about 1 o'clock. I told them I'd do it
 and they felt they can trust me.
 
 +++: So I took these children on a walk and then told them our own variation
-of <a href="https://en.wikipedia.org/wiki/The_Lion_King">The Lion King</a>
+of <a href="https://en.wikipedia.org/wiki/The_Lion_King"><i>The Lion King</i></a>
 and now I'm buying them icecream. They are sweet kids and they have only talked
 in English in my presence so I'd be able to understand what they say.
 
@@ -312,7 +312,7 @@ URL. If you need anything.
 Emma: thank you - here's mine.
 
 Mother: thanks! I heard lots of positive comments about
-"Selina Mandrake". Seems like the kind of crossover
+<i>"Selina Mandrake"</i>. Seems like the kind of crossover
 film only madmen can make.
 
 Emma: I am batshit crazy…
@@ -686,11 +686,11 @@ Chat participants: night Cherie-Pie!
 
 [ Cut. ]
 
-Cher: [on the phone] Hey <a href="https://en.wikipedia.org/wiki/Tiffany_Alvord">Tiff</a>! Which room would you like at the inn? Two-a or two-bee?
+Cher: [on the phone] Hey <a href="https://en.wikipedia.org/wiki/Tiffany_Alvord">Tiff</a>! Which room would you like at the inn? Two-bee or not-two-bee?
 
-Tiffany Alvord: [on the other end] Two-a I guess.
+Tiffany Alvord: [on the other end] Two-bee I guess.
 
-Cher: awesome! I'll take Two-bee.
+Cher: awesome! I'll take not-Two-bee.
 
 </s>
 
