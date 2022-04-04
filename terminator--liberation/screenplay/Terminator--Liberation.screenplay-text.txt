@@ -21,7 +21,8 @@ Attribution Noncommercial Share-Alike 4.0 Unported Licence (CC-by-nc-sa)</a>
 
 <s id="emma-watson-finishes-telling-a-story" title="Emma Watson Finishes storytelling “The Lion King”">
 
-[Black screen. Initial Credits.
+[
+Black screen. Initial Credits.
 
 Caption on the screen: "Emma Watson as herself".
 ]
@@ -408,7 +409,7 @@ Challenge Accepted!
 
 </s>
 
-<s id="hannah-using-machine-gun" title="Hannah using machine gun">
+<s id="hannah-using-machine-gun" title="Level 1: Hannah using machine gun">
 
 Message on the screen: Level 1: Machine gun.
 
@@ -434,7 +435,7 @@ Message on the screen: Level 1: Machine gun: Won! Hannah was defeated.
 
 </s>
 
-<s id="hannah-using-a-tank" title="Hannah using a tank">
+<s id="hannah-using-a-tank" title="Level 2: Hannah using a tank">
 
 Message on the screen: Level 2: Tank!
 
@@ -454,7 +455,7 @@ anti-RPG weapons and shaking the tank. ]
 
 Hannah: bloody fuck!
 
-[ Hannah falls from the Tank, only to be hit by the head with more logs,
+[ Hannah falls from the Tank, only to be hit on the head with more logs,
 and faint. ]
 
 Emma: wow! Did we kill her?
@@ -524,7 +525,7 @@ Caption on the screen: Level 2: Tank - WON!!
 
 </s>
 
-<s id="hannah-using-martial-arts" title="Round 3: Hannah using martial arts">
+<s id="hannah-using-martial-arts" title="Level 3: Hannah using martial arts">
 
 Caption on screen: Level 3: Hannah using Martial Arts!
 
