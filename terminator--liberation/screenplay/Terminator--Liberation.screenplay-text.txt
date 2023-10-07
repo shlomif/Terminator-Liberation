@@ -632,6 +632,8 @@ shaking hands and heading over to the café / restaurant. ]
 
 </s>
 
+</s>
+
 <s id="finishing-the-bedtime-story" title="Bedtime story">
 
 [Cut to <a href="https://mlp.fandom.com/wiki/Discord">Discord (MLP)</a>
@@ -660,8 +662,6 @@ For this year in the established Tel Aviv.
 לשנה הזו בתל-אביב הבנויה.
 
 ]
-
-</s>
 
 </s>
 
