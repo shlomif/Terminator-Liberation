@@ -20,15 +20,16 @@ my $obj = Shlomif::Screenplays::EPUB->new(
 $obj->run();
 
 {
-    my $epub_basename = 'So-Who-the-Hell-is-Qoheleth';
+    my $epub_basename = 'Terminator-Liberation';
     $obj->epub_basename($epub_basename);
 
     $obj->output_json(
         {
             data => {
                 filename => $epub_basename,
-                title    => q{“So, Who the Hell is Qoheleth?”},
-                authors  => [
+                title    =>
+q{Terminator: Liberation : a self-referntial parody of the Terminator franchise},
+                authors => [
                     {
                         name => "Shlomi Fish",
                         sort => "Fish, Shlomi",
@@ -49,7 +50,7 @@ $obj->run();
                 identifier => {
                     scheme => 'URL',
                     value  =>
-'http://localhost/shlomif/homepage-local/humour/So-Who-The-Hell-Is-Qoheleth/',
+'https://www.shlomifish.org/humour/Terminator/Liberation/',
                 },
             },
         },
