@@ -201,10 +201,10 @@ Caption on the screen: "Arnold Schwarzenegger as himself".
 
 [
 Two children emulating <a href="https://www.youtube.com/watch?v=9Eont_yEGZs">the Hamlet parody scene</a>
-: a boy playing Schwarzenegger and a girl doing the special effects and the narration.
+: a boy playing Schwarzenegger and a girl doing the special audible effects and the narration.
 ]
 
-Boy: Hey Claudius!
+Boy: Hey, Claudius!
 
 Girl: [lighting a cigar and closing the lighter sounds]
 
@@ -217,7 +217,7 @@ Girl: [window smashing sound]
 
 +++: … and — Hamlet is taking out the trash.
 
-Boy: Stay thy hand fair prince.
+Boy: Stay thy hand, fair prince.
 
 +++: who says I'm fair?
 
@@ -281,7 +281,7 @@ Aharon appears out of a portal in a side corridor of the school
 in which Olamot Con takes place,
 carrying a shotgun. He is wearing a T-shirt with
 the caption: "@EmmaWatson and @Schwarzenegger shall not be terminated!
-I am Aharon the good Arnold-like terminator, BTW."
+I am Aharon, the good Arnold-like terminator, BTW."
 
 He marches out.
 
@@ -428,7 +428,7 @@ sets up a cyclone which twirls Hannah out of the machine gun's reach. ]
 
 Aharon: eject AK-47!
 
-[ The AK-47 is thrown out of one of the hall's upper windows.
+[ The AK-47 is shot out of one of the hall's upper windows.
 ]
 
 Message on the screen: Level 1: Machine gun: Won! Hannah was defeated.
@@ -546,7 +546,7 @@ Aharon: There is… a better way.
 
 Hannah: Come and get me!
 
-Emma: [angry] We are not going to come to you, Hannah, Please just give up already.
+Emma: [angry] We are not going to come to you, Hannah. Please just give up already.
 
 Hannah: Must not give up. Must Terminate. Come and get me!
 
@@ -628,7 +628,7 @@ Hannah: I guess… <a href="https://www.youtube.com/watch?v=Yf7MT1p1VNI">"the mo
 merrier"</a>.
 
 [ Emma, Arnold and Aharon approach Hannah and Idan, and start
-shaking hands and heading over to the café / restaurant. ]
+shaking hands, and heading over to the café / restaurant. ]
 
 </s>
 
@@ -636,10 +636,13 @@ shaking hands and heading over to the café / restaurant. ]
 
 <s id="finishing-the-bedtime-story" title="Bedtime story">
 
-[Cut to <a href="https://mlp.fandom.com/wiki/Discord">Discord (MLP)</a>
+[
+
+Cut to <a href="https://mlp.fandom.com/wiki/Discord">Discord (MLP)</a>
 telling a bedtime story for <a href="https://mlp.fandom.com/wiki/Cutie_Mark_Crusaders">the Cutie Mark Crusaders</a> (= <a href="https://mlp.fandom.com/wiki/Apple_Bloom">Apple Bloom</a>,
 <a href="https://mlp.fandom.com/wiki/Sweetie_Belle">Sweetie Belle</a>,
-and <a href="https://mlp.fandom.com/wiki/Scootaloo">Scootaloo</a>). ]
+and <a href="https://mlp.fandom.com/wiki/Scootaloo">Scootaloo</a>).
+]
 
 Discord: And then Emma, Arnold, and their friends, had a great
 time in Olamot Con, and on the 7th day's evening (8th day
@@ -668,8 +671,7 @@ For this year in the established Tel Aviv.
 <s id="hamlet-parody-Cher-parody" title="(Addendum) A parody of the Last Action Hero’s “Hamlet Parody scene” starring Cher Horowitz from Clueless">
 
 [ Parody of <a href="#emulating-arnie-as-hamlet">the Hamlet parody scene</a>
-starring <a href="https://clueless.fandom.com/wiki/Cher_Horowitz">Cher Horowitz</a> from "Clueless".
-]
+starring <a href="https://clueless.fandom.com/wiki/Cher_Horowitz">Cher Horowitz</a> from "Clueless". ]
 
 Cher: [on her smartphone] Hey Uncle Claudius!... what? You nearly killed Father when playing Tennis? That's it: I'm gonna tell him that it's a big mistake that he doesn't quit being a litigator. It's been really stressing him out… and, like, you can no more win a court case than you can win an earthquake.
 
@@ -677,7 +679,7 @@ Narrator: Something is rotten in the state of Beverly Hills… and Cher the Jewi
 
 Older-looking barber: stay thy hand, fair princess.
 
-Cher: "fair"? As if! I want to look drop-dead gorgeous like <a href="https://en.wikipedia.org/wiki/Esti_Ginzburg">Esti Ginzburg</a>. Please make it so.
+Cher: "fair"? As if! I want to look drop-dead gorgeous, just like <a href="https://en.wikipedia.org/wiki/Esti_Ginzburg">Esti Ginzburg</a>. Please make it so.
 
 Narrator: Everybody tells this sweet princess good night.
 
