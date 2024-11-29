@@ -5,11 +5,12 @@
 This repository contains the sources for an illustrated screenplay of a
 self-referential Terminator parody which takes place in Tel Aviv in
 https://en.wikipedia.org/wiki/Passover[Passover] 2020 around
-http://www.olamot-con.org.il/[Olamot Con] featuring Emma Watson as
-herself and as the evil terminator,
-https://en.wikipedia.org/wiki/Arnold_Schwarzenegger[Arnold
-Schwarzenegger] as himself and as the good terminator and some other
-entertainers as themselves or as others.
+http://www.olamot-con.org.il/[Olamot Con].
+
+It features https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect[Emma Watson] as herself and her cosplayer, Hannah, as the evil
+terminator, as well as
+https://en.wikipedia.org/wiki/Arnold_Schwarzenegger[Arnold Schwarzenegger] as
+himself and his cosplayer, Aharon, as the good terminator.
 
 === Links
 
