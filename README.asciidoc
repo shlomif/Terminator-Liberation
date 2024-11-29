@@ -2,6 +2,19 @@
 
 === About
 
+____
+It might seem preposterous to believe Emma Watson is the new Arnold
+Schwarzenegger, just because they were both Hollywood's best paid
+actors, and you would be right. Emma Watson is not the new Arnold
+Schwarzenegger.
+
+But Arnold Schwarzenegger will forever be remembered as the old EMMA
+FUCKIN' WATSON!
+____
+
+( https://www.shlomifish.org/humour/bits/facts/Emma-Watson/[Emma Watson
+Factoids by Shlomi Fish and friends] )
+
 This repository contains the sources for an illustrated screenplay of a
 self-referential Terminator parody which takes place in Tel Aviv in
 https://en.wikipedia.org/wiki/Passover[Passover] 2020 around
