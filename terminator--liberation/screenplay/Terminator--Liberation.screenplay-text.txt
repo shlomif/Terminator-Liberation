@@ -162,10 +162,10 @@ Efrat: Sounds great!
 Emma: Now what about you?
 
 Efrat: Well, I'm in the twelfth grade now, and planning to be a software
-dev in the army… I mean the military. I'm good at maths and been programming
+developer in the army… I mean the military. I'm good at maths and been programming
 since the third grade, and
 the <a href="https://en.wikipedia.org/wiki/Israel_Defense_Forces">IDF</a>
-is desperate for software devs and it is something I do enjoy.
+is desperate for software developers, and it <b>is</b> something I do enjoy.
 
 Emma: Good luck. Well, I'd better eat my icecream, here is my card - you can
 instant-message me when your shift's over and we can meet somewhere near the con.
@@ -375,11 +375,11 @@ Aharon: over there - she is busy being an <a href="https://tvtropes.org/pmwiki/p
 Arnold: looks like it will take a while. Can we use the opportunity to escape?
 
 Aharon: there is no escape from destiny. But we can speed up the start of the
-battle by using a time wrapped game session.
+battle by using a time-wrapped game session.
 
 +++: Would that be acceptable?
 
-Arnold: I guess - might as well get it over with now.
+Arnold: I guess. Might as well get it over with now.
 
 Emma: yes… Please <a href="https://scifi.stackexchange.com/questions/9695/whats-the-origin-of-picards-signature-phrase-make-it-so">make it so</a>.
 
@@ -748,7 +748,7 @@ That put aside, the names of the two terminators, which were chosen as Hebrew
 names which were cognate with "Arnold" and "Emma", coincide with those of my
 late grandfather-on-my-father's side, Aharon Fish, whom I knew and loved up to
 my twenties, and his younger sister, Channah Fish, who lived up to 103 and
-passed away a few years ago (as of 2021).  They were both Warsaw-born Jews and
+passed away a few years ago (as of 2021). They were both Warsaw-born Jews and
 the only known surviving siblings from their family after WWII.
 
 I dedicate this screenplay to their memory as well.
